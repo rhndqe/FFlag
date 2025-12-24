@@ -1,18 +1,3 @@
-{
-  "admin": "admin123",
-  "user1": "password1",
-  "user2": "password2",
-  "user3": "password3",
-  "user4": "password4",
-  "user5": "password5",
-  "john": "doe123",
-  "jane": "smith456",
-  "alice": "wonderland",
-  "bob": "builder123",
-  "charlie": "chocolate",
-  "david": "beckham77",
-  "emma": "watson88",
-  "frank": "castle99",
-  "george": "jungle2024",
-  "henry": "ford55"
-}
+admin:admin123
+user1:password1
+user2:password2
